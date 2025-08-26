@@ -11,3 +11,6 @@ https://colab.research.google.com/drive/1vbaBbQ9ZCO2z4ue-q5gi7mmGxMFeXf8D?usp=sh
 
 #視覺化圖表製作(2)_文字雲小說角色分析
 https://colab.research.google.com/drive/1PueYla6zbGtA6nZmKaKm5aUwhDE0HNF6?usp=sharing
+
+#ASML_EXE_羽球雙人賽隨機分組
+https://colab.research.google.com/drive/1KbvLC7od8D_7NQ_WtiiDYvxEdAy1VCTn
